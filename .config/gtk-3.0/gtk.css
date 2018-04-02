@@ -1,0 +1,13 @@
+VteTerminal, vte-terminal {
+padding: 10px;
+}
+
+.window-frame.tiled {
+    border-radius: 0;
+    background-color: @bg_color;
+    margin: 20px;
+}
+.window-frame {
+  box-shadow: none;
+  margin: 20;
+}
